@@ -1,0 +1,524 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "username": "Shoaib",
+        "email": "shoaib123@gmail.com",
+        "password": "123456"
+      },
+      {
+        "username": "Saif",
+        "email": "Saif@gmail.com",
+        "password": "9689475867",
+        "confirm_password": "9689475867",
+        "id": 4
+      },
+      {
+        "username": "Jasmin",
+        "email": "Jaz@gmail.com",
+        "password": "123456789",
+        "confirm_password": "123456789",
+        "id": 5
+      },
+      {
+        "username": "Mohammad",
+        "email": "mohammad@gmail.com",
+        "password": "123456789",
+        "confirm_password": "123456789",
+        "id": 6
+      }
+    ],
+    "products": [
+      {
+        "category": "men's clothing",
+        "description": "Get into summer feels with this easy breezy mustard fusion dress from Biba. It is made from a blend of polyester and cotton and features a flared silhouette. The dress has a vibrant floral print along with three forth sleeves. Style with poppy colored flat sandals and accessories for your perfect vacation look.",
+        "id": 1,
+        "image": "/Images/banner-02.jpg.webp",
+        "price": 50.95,
+        "quantity":1,
+        "rating": {
+          "count": 120,
+          "rate": 3.9
+        },
+        "title": "Mustard Poly Cotton Flared Fusion Printed Dress"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 2,
+        "image": "/Images/banner-03.jpg.webp",
+        "price": 20,
+        "quantity":1,
+        "rating": {
+          "count": 80,
+          "rate": 4
+        },
+        "title": "LOUIS DEVIN Silicone Strap Analog Wrist Watch for Men"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 3,
+        "image": "/Images/banner-04.jpg.webp",
+        "price": 35,
+        "quantity":1,
+        "rating": {
+          "count": 90,
+          "rate": 3.8
+        },
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 4,
+        "image": "/Images/banner-05.jpg.webp",
+        "price": 25,
+        "quantity":1,
+        "rating": {
+          "count": 100,
+          "rate": 3.7
+        },
+        "title": "UV Protection Wayfarer Sunglasses (Free Size)  (For Men & Women, Black)"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 5,
+        "image": "/Images/banner-07.jpg.webp",
+        "price": 38,
+        "quantity":1,
+        "rating": {
+          "count": 105,
+          "rate": 3.8
+        },
+        "title": "FASHIMO Women Woven Design Denim Casual Sneakers"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 6,
+        "image": "/Images/banner-08.jpg.webp",
+        "price": 50,
+        "quantity":1,
+        "rating": {
+          "count": 96,
+          "rate": 4
+        },
+        "title": "Women Pure Cotton Brand Logo Printed T-shirt"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 7,
+        "image": "/Images/blog-01.jpg.webp",
+        "price": 55,
+        "quantity":1,
+        "rating": {
+          "count": 150,
+          "rate": 4.2
+        },
+        "title": "Women Tote Bag with Metal Logo Accent"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 8,
+        "image": "/Images/blog-02.jpg.webp",
+        "price": 45,
+        "quantity":1,
+        "rating": {
+          "count": 100,
+          "rate": 4
+        },
+        "title": "Women Pure Cotton Brand Logo Printed T-shirt"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 9,
+        "image": "/Images/blog-03.jpg.webp",
+        "price": 50,
+        "quantity":1,
+        "rating": {
+          "count": 120,
+          "rate": 4.1
+        },
+        "title": "Women Tote Bag with Metal Logo Accent"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 10,
+        "image": "/Images/blog-04.jpg.webp",
+        "price": 60,
+        "quantity":1,
+        "rating": {
+          "count": 120,
+          "rate": 4.6
+        },
+        "title": "Blessa_D CrossBody Bags"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 11,
+        "image": "/Images/gallery-03.jpg.webp",
+        "price": 62,
+        "quantity":1,
+        "rating": {
+          "count": 110,
+          "rate": 4.1
+        },
+        "title": "Women Tote Bag with Metal Logo Accent"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 12,
+        "image": "/Images/gallery-07.jpg.webp",
+        "price": 80,
+        "quantity":1,
+        "rating": {
+          "count": 120,
+          "rate": 3.8
+        },
+        "title": "Calvin Klein Jeans"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 13,
+        "image": "/Images/gallery-09.jpg.webp",
+        "price": 60,
+        "quantity":1,
+        "rating": {
+          "count": 130,
+          "rate": 4
+        },
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 14,
+        "image": "/Images/gallery-13.jpg.webp",
+        "price": 75,
+        "quantity":1,
+        "rating": {
+          "count": 120,
+          "rate": 3.8
+        },
+        "title": "Marks & Spencer Cotton Denim Jacket"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 15,
+        "image": "/Images/gallery-15.jpg.webp",
+        "price": 70,
+        "quantity":1,
+        "rating": {
+          "count": 13,
+          "rate": 4.2
+        },
+        "title": "FASHIMO Women Woven Design Denim Casual Sneakers"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 16,
+        "image": "/Images/item-02.jpg.webp",
+        "price": 70,
+        "quantity":1,
+        "rating": {
+          "count": 100,
+          "rate": 3.9
+        },
+        "title": "Women Tote Bag with Metal Logo Accent"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 17,
+        "image": "/Images/item-03.jpg.webp",
+        "price": 80,
+        "quantity":1,
+        "rating": {
+          "count": 120,
+          "rate": 3.7
+        },
+        "title": "Marks & Spencer Cotton Denim Jacket"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 18,
+        "image": "/Images/item-05.jpg.webp",
+        "price": 100,
+        "quantity":1,
+        "rating": {
+          "count": 100,
+          "rate": 4
+        },
+        "title": "LOUIS DEVIN Silicone Strap Analog Wrist Watch for Men"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 19,
+        "image": "/Images/item-07.jpg.webp",
+        "price": 105,
+        "quantity":1,
+        "rating": {
+          "count": 130,
+          "rate": 3.9
+        },
+        "title": "Trendyol Women High-Rise Denim Shorts"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 20,
+        "image": "/Images/item-08.jpg.webp",
+        "price": 85,
+        "quantity":1,
+        "rating": {
+          "count": 110,
+          "rate": 4.3
+        },
+        "title": "LOUIS DEVIN Silicone Strap Analog Wrist Watch for Men"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 21,
+        "image": "/Images/item-10.jpg.webp",
+        "price": 95,
+        "quantity":1,
+        "rating": {
+          "count": 120,
+          "rate": 4
+        },
+        "title": "Women Pack of 2 Pure Cotton Solid Lounge Pants"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 22,
+        "image": "/Images/item-11.jpg.webp",
+        "price": 120,
+        "quantity":1,
+        "rating": {
+          "count": 80,
+          "rate": 3.9
+        },
+        "title": "Women Pack of Pure Cotton Solid Lounge Pants"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 23,
+        "image": "/Images/item-12.jpg.webp",
+        "price": 90,
+        "quantity":1,
+        "rating": {
+          "count": 120,
+          "rate": 3.8
+        },
+        "title": "Calvin Klein Jeans"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 24,
+        "image": "/Images/item-14.jpg.webp",
+        "price": 98,
+        "quantity":1,
+        "rating": {
+          "count": 110,
+          "rate": 3.9
+        },
+        "title": "Women Pure Cotton Brand Logo Printed T-shirt"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 25,
+        "image": "/Images/item-15.jpg.webp",
+        "price": 100,
+        "quantity":1,
+        "rating": {
+          "count": 100,
+          "rate": 4
+        },
+        "title": "Calvin Klein Jeans"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 26,
+        "image": "/Images/item-16.jpg.webp",
+        "price": 95,
+        "quantity":1,
+        "rating": {
+          "count": 120,
+          "rate": 4
+        },
+        "title": "Calvin Klein Jeans"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 27,
+        "image": "/Images/shop-item-09.jpg.webp",
+        "price": 100,
+        "quantity":1,
+        "rating": {
+          "count": 110,
+          "rate": 4.1
+        },
+        "title": "UV Protection Wayfarer Sunglasses (Free Size)  (For Men & Women, Black)"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 28,
+        "image": "/Images/dress.jpg",
+        "price": 80,
+        "quantity":1,
+        "rating": {
+          "count": 120,
+          "rate": 4.1
+        },
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 29,
+        "image": "/Images/denium-jacket.jpeg",
+        "price": 110,
+        "quantity":1,
+        "rating": {
+          "count": 120,
+          "rate": 3.9
+        },
+        "title": "Marks & Spencer Cotton Denim Jacket"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 30,
+        "image": "/Images/bags.jpeg",
+        "price": 80,
+        "quantity":1,
+        "rating": {
+          "count": 120,
+          "rate": 3.9
+        },
+        "title": "Women Tote Bag with Metal Logo Accent"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 31,
+        "image": "/Images/deni.jpeg",
+        "price": 50,
+        "quantity":1,
+        "rating": {
+          "count": 110,
+          "rate": 4
+        },
+        "title": "Marks & Spencer Cotton Denim Jacket"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 32,
+        "image": "https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+        "price": 60,
+        "quantity":1,
+        "rating": {
+          "count": 120,
+          "rate": 4
+        },
+        "title": "Marks & Spencer Cotton Denim Jacket"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 33,
+        "image": "/Images/shorts-1.jpeg",
+        "price": 50,
+        "quantity":1,
+        "rating": {
+          "count": 120,
+          "rate": 4
+        },
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops"
+      },
+      {
+        "category": "men's clothing",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "id": 34,
+        "image": "https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+        "price": 109.95,
+        "quantity":1,
+        "rating": {
+          "count": 120,
+          "rate": 4.1
+        },
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops"
+      }
+      
+     
+    ],
+    "sliderItems" : [
+      {
+        "id": 1,
+        "img": "/Images/new3.png",
+        "title": "SUMMER SALE",
+        "desc": "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+        "bg": "e0f0f9"
+      },
+      {
+        "id": 2,
+        "img": "/Images/new2.png",
+        "title": "AUTUMN COLLECTION",
+        "desc": "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+        "bg": "#fdf5fa"
+      },
+      {
+        "id": 3,
+        "img": "/Images/new.png",
+        "title": "LOUNGEWEAR LOVE",
+        "desc": "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+        "bg": "fbf0f4"
+      },
+      {
+        "id": 3,
+        "img": "/Images/new.png",
+        "title": "LOUNGEWEAR LOVE",
+        "desc": "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+        "bg": "fbf0f4"
+      }
+    ],
+  "categories" :[
+      {
+        "id": 1,
+        "img": "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "title": "SHIRT STYLE!"
+      },
+      {
+        "id": 2,
+        "img": "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "title": "LOUNGEWEAR LOVE"
+      },
+      {
+        "id": 3,
+        "img": "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "title": "LIGHT JACKETS"
+      }
+    ]
+  }
